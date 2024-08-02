@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+p {
+    margin: 10px;
+    border: 2px solid black;
+    padding: 5px;
+ }
+
+body{
+    background-color: black;
+    color: white;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.titulo-destacado {
+
+    color: rgb(255, 217, 0);
+}
+
+strong{
+    color: rgb(231, 24, 24);
+}
+
+.presentacion{
+    display: flex;
+    align-items: center;
+    margin: 35%;
+    justify-content: space-around;
+}
+
+.presentacion-contenido{
+    width: 620px;
+}
+
+.titulo-uno{
+    text-align: center;
+}
+
+.parrafo{
+    text-align: center;
+    font-size: 150%;
+}
+
+.redes {
+    text-align: center;
+    font-size: 150%;
+    color: #00FFFF
+}
